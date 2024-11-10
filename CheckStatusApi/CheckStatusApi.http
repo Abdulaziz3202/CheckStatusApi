@@ -1,0 +1,6 @@
+@CheckStatusApi_HostAddress = http://localhost:5118
+
+GET {{CheckStatusApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

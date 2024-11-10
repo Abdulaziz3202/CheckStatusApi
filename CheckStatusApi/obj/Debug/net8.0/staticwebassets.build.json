@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HYrdeGaaKztvgGR3qCyiGGMdrjNotACw3idlRokwXFo=",
+  "Source": "CheckStatusApi",
+  "BasePath": "_content/CheckStatusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
